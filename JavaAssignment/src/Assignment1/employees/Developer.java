@@ -1,4 +1,4 @@
-package com.akshaya.assignment.one.employees;
+package Assignment1.employees;
 
 public class Developer extends Employee {
     private String programmingLanguage;

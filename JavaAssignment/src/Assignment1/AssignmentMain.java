@@ -1,8 +1,8 @@
-package com.akshaya.assignment.one;
+package Assignment1;
 import java.util.Scanner;
 
-import com.akshaya.assignment.one.employees.*;
-import com.akshaya.assignment.one.utilities.*;
+import Assignment1.employees.*;
+import Assignment1.utilities.*;
 
 public class AssignmentMain {
 	public static void main(String[] args) {

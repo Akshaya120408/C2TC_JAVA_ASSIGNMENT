@@ -1,4 +1,4 @@
-package com.akshaya.assignment.one.employees;
+package Assignment1.employees;
 
 public class Manager extends Employee {
     private String department;

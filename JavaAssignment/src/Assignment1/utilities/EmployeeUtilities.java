@@ -1,5 +1,5 @@
-package com.akshaya.assignment.one.utilities;
-import com.akshaya.assignment.one.employees.*;
+package Assignment1.utilities;
+import Assignment1.employees.*;
 
 public class EmployeeUtilities {
     public static void printEmployeeDetails(Employee e) {
